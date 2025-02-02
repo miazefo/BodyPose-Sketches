@@ -11,5 +11,5 @@
 11. BodyPose11 – Body form (not skeleton) with capacitive and ultrasonic sensors
 12. BodyPose12 – Circles with capacitive and ultrasonic sensors
 
-capacitive_sensor_webserial_sketch = ARDUINO CODE
-ultrasonic_capacitive_sensors = ARDUINO CODE
+1. capacitive_sensor_webserial_sketch = ARDUINO CODE
+2. ultrasonic_capacitive_sensors = ARDUINO CODE
