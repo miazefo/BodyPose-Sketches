@@ -9,4 +9,4 @@
 9. BodyPose9 – White skeleton without keypoints
 10. BodyPose10 – Body form (not skeleton)
 11. BodyPose11 – Body form (not skeleton) with capacitive and ultrasonic sensors
-12. BodyPose12 – Circles with capacitive and ultrasonic sensors
+12. BodyPose12 – Circles with capacitive and ultrasonic sensors 
